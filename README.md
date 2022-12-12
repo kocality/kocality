@@ -1,4 +1,4 @@
-### Hi there, I am Kocality👋
+### hi there, i am kocality👋
 
 <!--
 **kocality/kocality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
