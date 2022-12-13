@@ -15,6 +15,7 @@
 </div>  
 <div align="center">  
  Mail: kocalitycontact@gmail.com 
+ 
+You can reach me via Mail and Twitter addresses for communication.
 </div> 
 
-<a> You can reach me via mail and Twitter addresses for communication. </a>
