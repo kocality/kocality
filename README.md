@@ -1,6 +1,6 @@
 ### Hi there, I am kocality!👋
  <a></a>
-### I have been interested in the blockchain space for a long time. I have been and continue to been different and important roles in various projects.
+### I have been interested in the blockchain space for a long time. I have been and continue to been different roles in various projects.
  <a>
 </a> 
 
@@ -13,3 +13,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+ ### Mail: kocalitycontact@gmail.com
