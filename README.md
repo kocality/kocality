@@ -7,5 +7,7 @@
 
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="https://tiwtter.com/kkocality"/>
+  <a href="https://twitter.com/kkocality">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
