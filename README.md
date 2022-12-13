@@ -14,4 +14,7 @@
   </a>
 </div>
 
- Mail: kocalitycontact@gmail.com
+</div>  
+<div align="center">  
+ Mail: kocalitycontact@gmail.com 
+</div> 
