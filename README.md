@@ -1,6 +1,8 @@
 ### Hi there, I am kocality!👋
  <a></a>
 ### I have been interested in the blockchain space for a long time. I have been and continue to been different and important roles in various projects.
+ <a>
+</a> 
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/6Q7bURXDaNIAAAAC/anime-death-note.gif" width="600"/>
