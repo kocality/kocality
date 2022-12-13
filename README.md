@@ -2,6 +2,7 @@
  <a></a>
 ### I have been interested in the blockchain space for a long time. I have been and continue to been different roles in various projects.
  <a>
+ You can reach me via mail and Twitter addresses for communication.
 </a> 
 
 <div id="header" align="center">
