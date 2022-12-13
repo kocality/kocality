@@ -14,4 +14,4 @@
   </a>
 </div>
 
- ### Mail: kocalitycontact@gmail.com
+ Mail: kocalitycontact@gmail.com
