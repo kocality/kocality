@@ -14,8 +14,4 @@
 
 </div>  
 <div align="center">  
- Mail: kocalitycontact@gmail.com 
- 
- <h4>You can reach me via Mail and Twitter addresses for communication.</h4>
-</div> 
-
+ <h4> Mail: kocalitycontact@gmail.com </h4>
