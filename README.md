@@ -1,6 +1,6 @@
 ### hi there, I am kocality!👋
  <a></a>
-### As a full time Blockchain Enthusiast, i have been and continue to be in various roles in terms of testnet in more than 30 projects for more than 2 years. 
+### As a full-time Blockchain Enthusiast, I have held and continue to be in testnet roles in more than 30 different and diverse projects for over 2 years. In terms of testnet, I mostly set up nodes. Check out my website for contact! 
  
 <div id="header" align="center">
   <img src="https://media.tenor.com/hIUA2uaU3uYAAAAC/ufo361-fire.gif" width="600"/>
