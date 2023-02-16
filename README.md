@@ -1,6 +1,6 @@
 ### Hi there, I am kocality!👋
  <a></a>
-### I have been interested in the Blockchain space for a long time. I have been and continue to been different roles in various projects.
+### As a Blockchain Enthusiast, I have been and continue to be in various roles in terms of testnet in more than 30 projects for more than 2 years.
  
 <div id="header" align="center">
   <img src="https://media.tenor.com/6Q7bURXDaNIAAAAC/anime-death-note.gif" width="600"/>
