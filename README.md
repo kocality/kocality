@@ -14,6 +14,6 @@
 
 </div>  
 <div align="center">  
-mail : mehmetkocanode@gmail.com
+mail : kocalitycontact@gmail.com
  
 
