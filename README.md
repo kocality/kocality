@@ -1,6 +1,6 @@
-### Hi there, i am kocality!👋
+### Hi there, I am kocality!👋
  <a></a>
-### As a Blockchain Enthusiast, I have been in more than 30 different projects for over 2 years and I continue to be. I am actively producing content on the Core Node Team and helping people with Testnet. Check out my website for contact! 
+### As a Blockchain Enthusiast, I contribute to the development of projects by participating in their Testnets. So far, I have been in the Testnet phase of more than 30 projects in 2 years. I actively help people and create content about new Blockchain projects as a Community Moderator in Core Node Team, I am a Community Moderator in Venom Foundation and Kroma Network projects. For job offers and collaborations, you can find my contact information on my website! 
  
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/26b671fb5af5f7d42c67be1bbfff122a/14285fd47a7da8d8-7b/s500x750/898aebe40baea8d256a8a15e80907eb8e12e1609.gif" width="600"/>
