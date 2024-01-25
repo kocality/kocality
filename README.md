@@ -1,4 +1,4 @@
-### Hi there, I am kocality!👋
+###
  <a></a>
  
 <div id="header" align="center">
