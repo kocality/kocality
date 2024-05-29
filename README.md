@@ -13,6 +13,6 @@
 
 </div>  
 <div align="center">  
-mail : kocalitycontact@gmail.com
+mail : contact@kocality.com
  
 
