@@ -2,7 +2,7 @@
  <a></a>
  
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/26b671fb5af5f7d42c67be1bbfff122a/14285fd47a7da8d8-7b/s500x750/898aebe40baea8d256a8a15e80907eb8e12e1609.gif" width="600"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd2a28wbWJncnJoeDNid2R4d3NkYnBubWRqNDBjMXpkZ216ZHpoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.webp" width="600"/>
 
 
 <div id="badges">
