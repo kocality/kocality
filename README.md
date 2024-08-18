@@ -9,7 +9,7 @@
 
 <h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 32px;">kocality ⭐</h1>
 
-<p align="center" style="font-family: 'Inter', sans-serif; font-size: 18px; color: #7D3C98;">
+<p align="center" style="font-family: 'Inter', sans-serif; font-size: 25px; color: #7D3C98;">
 </p>
 
 
