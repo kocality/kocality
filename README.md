@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me
 
-<p style="font-family: 'Inter', sans-serif; font-size: 16px; color: #333;">
+<p style="font-family: 'Inter', sans-serif; font-size: 25px; color: #333;">
   I’m an active researcher in the blockchain community with a focus on emerging technologies. As a member of 
   <a href="https://x.com/ITUblockchain">ITU Blockchain</a>, Turkey’s first and largest university blockchain community, I conduct research on new projects and technologies. I also serve as a Community Moderator at
   <a href="https://fluent.xyz">Fluent</a>, the first Blended Execution network. Over the past three years, I've participated in Node Testnet phases for over 40 projects, including 
@@ -27,7 +27,7 @@
   <a href="https://cosmos.network/">Cosmos</a> ecosystem as validators.
 </p>
 
-<p style="font-family: 'Inter', sans-serif; font-size: 16px; color: #333;">
+<p style="font-family: 'Inter', sans-serif; font-size: 27px; color: #333;">
   If you'd like to connect, feel free to reach out via email at 
   <a href="mailto:contact@kocality.com">contact@kocality.com</a>
 </p>
@@ -62,7 +62,7 @@
 
 
 <div align="center">
-  <p style="font-family: 'Inter', sans-serif; font-size: 16px;">
+  <p style="font-family: 'Inter', sans-serif; font-size: 20px;">
     For more information, visit: <a href="https://kocality.com" style="text-decoration: none; color: #7D3C98;">kocality.com </a> 💜
   </p>
 </div>
