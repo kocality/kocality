@@ -21,7 +21,8 @@
   <a href="https://fluent.xyz">Fluent</a>, the first Blended Execution network. Over the past three years, I've participated in Node Testnet phases for over 40 projects, including 
   <a href="https://availproject.org">Avail</a>, 
   <a href="https://celestia.org">Celestia</a>, 
-  <a href="https://aptosfoundation.org">Aptos</a>, 
+  <a href="https://aptosfoundation.org">Aptos</a>,
+  <a href="https://dymension.xyz/">Dymension</a>,
   <a href="https://minaprotocol.com">Mina Protocol</a> and more. Additionally, I work as a researcher at 
   <a href="https://huginn.tech">Huginn</a>, we contribute to the security of networks within the
   <a href="https://cosmos.network/">Cosmos</a> ecosystem as validators.
