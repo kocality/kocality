@@ -1,69 +1,58 @@
-<!-- Google Fonts Inter Fontu Eklendi -->
-<link href="https://fonts.googleapis.com/css?family=Inter" rel="stylesheet" type="text/css">
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/86b5a0f9-3094-4587-9a40-714ed2ae154f" alt="Hello World, I am Kocality!" width="550" height="275" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd2a28wbWJncnJoeDNid2R4d3NkYnBubWRqNDBjMXpkZ216ZHpoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.webp" width="520" alt="hello, world" />
 </div>
 
----
+<h1 align="center">koca</h1>
+<p align="center"><i>modular mullet, active researcher, lazy perfectionist.</i></p>
 
-<h1 align="center" style="font-family: 'Inter', sans-serif; font-size: 32px;">kocality ⭐</h1>
-
-<p align="center" style="font-family: 'Inter', sans-serif; font-size: 25px; color: #7D3C98;">
-</p>
-
-
-### :man_technologist: About Me
-
-<p style="font-family: 'Inter', sans-serif; font-size: 25px; color: #333;">
-  I’m an active researcher in the blockchain community with a focus on emerging technologies. As a member of 
-  <a href="https://x.com/ITUblockchain">ITU Blockchain</a>, Turkey’s first and largest university blockchain community, I conduct research on new projects and technologies. I also serve as a Community Moderator at
-  <a href="https://fluent.xyz">Fluent</a>, the first Blended Execution network. Over the past three years, I've participated in Node Testnet phases for over 40 projects, including 
-  <a href="https://availproject.org">Avail</a>, 
-  <a href="https://celestia.org">Celestia</a>, 
-  <a href="https://aptosfoundation.org">Aptos</a>,
-  <a href="https://dymension.xyz/">Dymension</a>,
-  <a href="https://minaprotocol.com">Mina Protocol</a> and more. Additionally, I work as a researcher at 
-  <a href="https://huginn.tech">Huginn</a>, we contribute to the security of networks within the
-  <a href="https://cosmos.network/">Cosmos</a> ecosystem as validators.
-</p>
-
-<p style="font-family: 'Inter', sans-serif; font-size: 27px; color: #333;">
-  If you'd like to connect, feel free to reach out via email at 
-  <a href="mailto:contact@kocality.com">contact@kocality.com</a>
+<p align="center">
+  <a href="https://mirror.xyz/kocality.eth"><img alt="Mirror" src="https://img.shields.io/badge/Mirror-121212?style=for-the-badge&logo=ghost&logoColor=white"></a>
+  <a href="https://x.com/kkocality"><img alt="X" src="https://img.shields.io/badge/X-121212?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://kocality.com"><img alt="Website" src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:contact@kocality.com"><img alt="Email" src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### :mailbox_with_mail: Socials
+### About
+I’m an independent researcher-builder focused on the modular ecosystem, especially <a href="https://celestia.org">Celestia</a>. I turn end-to-end protocol research into clear explainers on <a href="https://mirror.xyz/kocality.eth">Mirror</a> and ship small tools, projects, and validator guides on GitHub. I’m a researcher & content creator at <a href="https://therollup.co/">The Rollup</a> and a member of <a href="https://x.com/ITUblockchain">ITU Blockchain</a>, Turkey’s first and largest university blockchain community.
 
-<div align="center">
-  <a href="https://x.com/kkocality">
-    <img src="https://img.shields.io/badge/X-7D3C98?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
-  </a>
-  <a href="https://t.me/kocality">
-    <img src="https://img.shields.io/badge/Telegram-7D3C98?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://kocality.medium.com">
-    <img src="https://img.shields.io/badge/Medium-7D3C98?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://mirror.xyz/kocality.eth">
-    <img src="https://img.shields.io/badge/Mirror-7D3C98?style=for-the-badge&logo=mirror&logoColor=white" alt="Mirror Badge"/>
-  </a>
-  <a href="https://kocality.com">
-    <img src="https://img.shields.io/badge/Website-7D3C98?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
-  </a>
-</div>
+### Testnets & Ops
+Over the past 4 years I’ve operated validators and full nodes across **40+ testnets**:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.availproject.org/">
+        <img src="https://www.availproject.org/favicon.ico" width="28"><br/>Avail
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://celestia.org/">
+        <img src="https://celestia.org/favicon.ico" width="28"><br/>Celestia
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dymension.xyz/">
+        <img src="https://dymension.xyz/favicon.ico" width="28"><br/>Dymension
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aptosfoundation.org/">
+        <img src="https://aptosfoundation.org/favicon.ico" width="28"><br/>Aptos
+      </a>
+    </td>
+    <td align="center">
+    <td align="center">
+      <a href="https://minaprotocol.com/">
+        <img src="https://minaprotocol.com/favicon.ico" width="28"><br/>Mina
+      </a>
+    </td>
+  </tr>
+</table>
+
+Focus: reliable node ops, high uptime, upgrades, monitoring, and practical notes that help teams and operators move faster.
 
 ---
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd2a28wbWJncnJoeDNid2R4d3NkYnBubWRqNDBjMXpkZ216ZHpoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.webp" width="500"/>
-</div>
-
-
-<div align="center">
-  <p style="font-family: 'Inter', sans-serif; font-size: 20px;">
-    For more information, visit: <a href="https://kocality.com" style="text-decoration: none; color: #7D3C98;">kocality.com </a> 💜
-  </p>
-</div>
+<p align="center"><i>more:</i> <a href="https://kocality.com">kocality.com</a> 💜</p>
